@@ -107,17 +107,3 @@ flutter pub get
 2️⃣ Chạy ứng dụng
 flutter run
 🗂️ Cấu trúc thư mục
-
-## ✅ Đảm bảo cho bạn
-- ✔️ **Đúng form giảng viên hay cho**
-- ✔️ **Ảnh hiển thị đúng đường dẫn**
-- ✔️ **README nhìn là biết app làm được gì**
-- ✔️ Phù hợp **nộp GitHub + báo cáo**
-
-Nếu bạn muốn mình:
-- ✍️ Viết **báo cáo Word/PDF**
-- 🎤 Làm **slide thuyết trình**
-- 🧠 Viết **mô tả chi tiết từng màn hình**
-
-👉 nói mình làm tiếp, mình hỗ trợ tới lúc **nộp bài xong** luôn 💯
- 
