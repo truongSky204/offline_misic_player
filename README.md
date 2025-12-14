@@ -107,3 +107,31 @@ flutter pub get
 2️⃣ Chạy ứng dụng
 flutter run
 🗂️ Cấu trúc thư mục
+## 📁 Cấu trúc thư mục
+
+
+```txt
+offline_music_player/
+├─ android/
+├─ ios/
+├─ assets/
+│  ├─ audio/
+│  └─ images/
+├─ lib/
+│  ├─ models/
+│  ├─ providers/
+│  ├─ screens/
+│  ├─ services/
+│  ├─ utils/
+│  ├─ widgets/
+│  └─ main.dart
+├─ Screenshots/
+│  ├─ MyMusicScreen.png
+│  ├─ NowPlayingScreen.png
+│  ├─ PlaylistScreen.png
+│  ├─ CreatePlayList.png
+│  ├─ RenamePlayList.png
+│  ├─ addSongPlayList.png
+│  └─ SettingsplayList.png
+├─ pubspec.yaml
+└─ README.md
